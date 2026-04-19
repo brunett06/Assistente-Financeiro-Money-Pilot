@@ -10,7 +10,7 @@ A proposta é criar um assistente virtual financeiro que permita interação em 
 Este repositório também está vinculado ao projeto **Pilot AI**, um assistente financeiro conversacional.
 
 🔗 Link do projeto:
-COLE_SEU_LINK_AQUI
+moneypilot.lovable.app/app
 
 ## Como funciona o Pilot AI
 O usuário pode simplesmente escrever ou falar frases como:
